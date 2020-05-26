@@ -1,15 +1,9 @@
-egassewa
+GasMate
 ========
 
-My Online Gas Agency Project
-
-This project is implemented using Play framework which uses MVC architecture.
-
-So, the frontend code will be in views and backend in models respectively.
-
-
-
-It is recommended to use play framework to run this project.
-
+This webapp uses play framework and follows the mvc architecture
 
 http://playframework.com
+
+It was done when I was in college 2nd Year for the IBM's The Great Mind Challenge - My first venture into HTML/CSS/JavaScript.
+
